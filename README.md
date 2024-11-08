@@ -1,15 +1,15 @@
 [![MasterHead](https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2088&q=80)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharma290&label=Profile%20views&color=0e75b6&style=flat" alt="sharma290" /> </p>
 
-- 🌱 I’m currently learning **Java Script , Data Structure And Algorithm**
+- 🌱 I’m currently learning **Next.js , Data Structure And Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sharma290](https://github.com/Sharma290)
 
-- 💬 Ask me about **HTML, CSS, TAILWIND**
+- 💬 Ask me about **MERN, Web Development, Data Structure And Algorithm**
 
 - 📫 How to reach me **sharmarohit44977@gmail.com**
 
